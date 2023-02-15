@@ -11,9 +11,9 @@
 Une question ? Une idée ? Une proposition ?
 __Contactez-moi !__
 
-> [sarah.emidio@gmail.com](https://github.com/Sarah-Emidio)
-+33(0)7 78 78 78 78
-[Linkedin](https://github.com/Sarah-Emidio)
-[Twitter](https://github.com/Sarah-Emidio)
+> [sarah.emidio@gmail.com](https://github.com/Sarah-Emidio)<br/>
+>+33(0)7 78 78 78 78 <br/>
+[Linkedin](https://github.com/Sarah-Emidio)<br/>
+[Twitter](https://github.com/Sarah-Emidio)<br/>
 
 © 2023 - Sarah Emidio - [Me contacter](https://github.com/Sarah-Emidio)
