@@ -16,4 +16,6 @@ __Contactez-moi !__
 [Linkedin](https://github.com/Sarah-Emidio)<br/>
 [Twitter](https://github.com/Sarah-Emidio)<br/>
 
+-----
+
 © 2023 - Sarah Emidio - [Me contacter](Contact.md)

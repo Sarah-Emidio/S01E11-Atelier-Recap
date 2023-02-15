@@ -15,5 +15,6 @@
 | Google | 2021 | Node.js | [Google](https://www.google.fr/) |
 | O'Clock | 2017 | React | [O'Clock](https://oclock.io/) |
 
+------
 
 © 2023 - Sarah Emidio - [Me contacter](Contact.md) 
