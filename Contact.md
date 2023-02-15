@@ -8,7 +8,7 @@
 
 ## Contact
 
-Une question ? Une idée ? Une proposition ?
+Une question ? Une idée ? Une proposition ?  
 __Contactez-moi !__
 
 > [sarah.emidio@gmail.com](https://github.com/Sarah-Emidio)<br/>
@@ -16,6 +16,8 @@ __Contactez-moi !__
 [Linkedin](https://github.com/Sarah-Emidio)<br/>
 [Twitter](https://github.com/Sarah-Emidio)<br/>
 
+A bientôt !
+
 -----
 
-© 2023 - Sarah Emidio - [Me contacter](Contact.md)
+© 2023 - __Sarah Emidio__ - [Me contacter](Contact.md)

@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ------------
 
-© 2023 - Sarah Emidio - [Me contacter](Contact.md) 
+© 2023 - __Sarah Emidio__ - [Me contacter](Contact.md) 

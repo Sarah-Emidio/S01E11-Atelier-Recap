@@ -10,13 +10,12 @@
 
 __Sarah Emidio__
 
-404 Avenue Nawak
-
+404 Avenue Nawak  
 75000 Paris
 
 [Sarah.Emidio@gmail.com](https://github.com/Sarah-Emidio)
 
-
+----
 
 __Expérience__
 
@@ -34,8 +33,11 @@ __Compétences__
 
 __Loisirs__
 
-Musique, Cinéma, Littérature, Jeux-videos
+- Musique
+- Cinéma
+- Littérature
+- Jeux-videos
 
 -----
 
-© 2023 - Sarah Emidio - [Me contacter](Contact.md)
+© 2023 - __Sarah Emidio__ - [Me contacter](Contact.md)
