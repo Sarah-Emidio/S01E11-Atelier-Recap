@@ -11,10 +11,10 @@
 Une question ? Une idée ? Une proposition ?  
 __Contactez-moi !__
 
-> [sarah.emidio@gmail.com](https://github.com/Sarah-Emidio)<br/>
->+33(0)7 78 78 78 78 <br/>
-[Linkedin](https://github.com/Sarah-Emidio)<br/>
-[Twitter](https://github.com/Sarah-Emidio)<br/>
+> :envelope: [sarah.emidio@gmail.com](https://github.com/Sarah-Emidio)<br/>
+>:telephone_receiver: +33(0)7 78 78 78 78 <br/>
+:woman_technologist: [Linkedin](https://github.com/Sarah-Emidio)<br/>
+ :bird:[Twitter](https://github.com/Sarah-Emidio)<br/>
 
 A bientôt !
 
