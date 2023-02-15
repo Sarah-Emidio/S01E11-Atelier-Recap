@@ -4,7 +4,7 @@
 
 *Développeur web junior, en formation "Developpement Web et Accessibilité"*
 
-[Acceuil](README.md) - [Projets](Projets.md) - CV - [Contact](Contact.md) 
+[Accueil](README.md) - [Projets](Projets.md) - CV - [Contact](Contact.md) 
 
 ## CV
 
